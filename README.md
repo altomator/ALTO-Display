@@ -5,7 +5,7 @@
 ### Synopsis
 This batch script converts collection of ALTO (https://www.loc.gov/standards/alto) based documents to HTML. OCR text is converted at the page level, and navigation threw the pages document is allowed. Images are also displayed. It also renders other kind of information: word confidences, tags and statistical analysis of the OCR. 
 
-The script have been coded for the BnF documents (ALTO BnF v2, see), but this can be easily fixed for other contexts. 
+The script have been coded for the BnF documents (ALTO BnF v2, see http://bibnum.bnf.fr/alto_bnf-v2_0/index.html), but this can be easily fixed for other contexts. 
 
 
 ### Installation
