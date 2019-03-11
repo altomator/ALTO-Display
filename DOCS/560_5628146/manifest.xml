@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:premis="info:lc/xmlns/premis-v2" xmlns:mix="http://www.loc.gov/mix/v10" xmlns:spar_dc="http://bibnum.bnf.fr/ns/spar_dc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd http://bibnum.bnf.fr/ns/spar_dc http://bibnum.bnf.fr/ns/spar_dc.xsd">
+    <metsHdr ID="HDR.1" CREATEDATE="2019-01-17T17:02:35.751+01:00" LASTMODDATE="2019-01-17T17:02:36.092+01:00">
+        <altRecordID TYPE="producerIdentifier">NUM</altRecordID>
+        <altRecordID TYPE="productionIdentifier">5628146</altRecordID>
+    </metsHdr>
+    <dmdSec ID="DMD.1">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC">
+            <xmlData>
+                <spar_dc:spar_dc>
+                    <dc:title>Le Modèle des jeunes pensionnaires, ou Notice sur la vie et la mort d'Augustine P**, décédée à Paris, le 11 décembre 1831...</dc:title>
+                    <dc:publisher>L. Lefort (Lille)</dc:publisher>
+                    <dc:date>1837</dc:date>
+                    <dc:type>monograph</dc:type>
+                    <dcterms:provenance>BnF</dcterms:provenance>
+                    <dc:language xsi:type="dcterms:ISO639-3">fre</dc:language>
+                    <dc:relation xsi:type="spar_dc:ark">ark:/12148/cb36424695f</dc:relation>
+                </spar_dc:spar_dc>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    <amdSec>
+        <digiprovMD ID="AMD.1" ADMID="AMD.5 AMD.6">
+            <mdWrap MIMETYPE="text/xml" MDTYPE="PREMIS:EVENT">
+                <xmlData>
+                    <premis:event>
+                        <premis:eventIdentifier>
+                            <premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+                            <premis:eventIdentifierValue>fd81e47e-0782-4063-b33a-9f2e417790f8</premis:eventIdentifierValue>
+                        </premis:eventIdentifier>
+                        <premis:eventType>ocerization</premis:eventType>
+                        <premis:eventDateTime>2019-01-17T17:02:35.752+01:00</premis:eventDateTime>
+                        <premis:linkingAgentIdentifier>
+                            <premis:linkingAgentIdentifierType>UUID</premis:linkingAgentIdentifierType>
+                            <premis:linkingAgentIdentifierValue>b05394bb-b816-47c0-8eaa-c6f161fff1b8</premis:linkingAgentIdentifierValue>
+                            <premis:linkingAgentRole>performer</premis:linkingAgentRole>
+                        </premis:linkingAgentIdentifier>
+                        <premis:linkingAgentIdentifier>
+                            <premis:linkingAgentIdentifierType>UUID</premis:linkingAgentIdentifierType>
+                            <premis:linkingAgentIdentifierValue>8a241ea3-9ba6-46db-acd7-1da09b48724f</premis:linkingAgentIdentifierValue>
+                            <premis:linkingAgentRole>implementer</premis:linkingAgentRole>
+                        </premis:linkingAgentIdentifier>
+                    </premis:event>
+                </xmlData>
+            </mdWrap>
+        </digiprovMD>
+        <digiprovMD ID="AMD.2" ADMID="AMD.5">
+            <mdWrap MIMETYPE="text/xml" MDTYPE="PREMIS:EVENT">
+                <xmlData>
+                    <premis:event>
+                        <premis:eventIdentifier>
+                            <premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+                            <premis:eventIdentifierValue>094c6b40-824b-44b5-ae0a-ecd1ac373baa</premis:eventIdentifierValue>
+                        </premis:eventIdentifier>
+                        <premis:eventType>qualityAssessment</premis:eventType>
+                        <premis:eventDateTime>2019-01-17T17:02:35.752+01:00</premis:eventDateTime>
+                        <premis:eventDetail>demande de la BnF : ocr brut</premis:eventDetail>
+                        <premis:eventOutcomeInformation>
+                            <premis:eventOutcome>NQAMOYEN</premis:eventOutcome>
+                            <premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>72.66%</premis:eventOutcomeDetailNote>
+                            </premis:eventOutcomeDetail>
+                        </premis:eventOutcomeInformation>
+                        <premis:eventOutcomeInformation>
+                            <premis:eventOutcome>TAUXOCRDEBASE</premis:eventOutcome>
+                            <premis:eventOutcomeDetail>
+<premis:eventOutcomeDetailNote>72.66%</premis:eventOutcomeDetailNote>
+                            </premis:eventOutcomeDetail>
+                        </premis:eventOutcomeInformation>
+                        <premis:linkingAgentIdentifier>
+                            <premis:linkingAgentIdentifierType>UUID</premis:linkingAgentIdentifierType>
+                            <premis:linkingAgentIdentifierValue>b05394bb-b816-47c0-8eaa-c6f161fff1b8</premis:linkingAgentIdentifierValue>
+                            <premis:linkingAgentRole>performer</premis:linkingAgentRole>
+                        </premis:linkingAgentIdentifier>
+                        <premis:linkingAgentIdentifier>
+                            <premis:linkingAgentIdentifierType>BnFApplication</premis:linkingAgentIdentifierType>
+                            <premis:linkingAgentIdentifierValue>info:bnf/spar/agent/bibliothequeNationaleDeFrance</premis:linkingAgentIdentifierValue>
+                            <premis:linkingAgentRole>implementer</premis:linkingAgentRole>
+                        </premis:linkingAgentIdentifier>
+                    </premis:event>
+                </xmlData>
+            </mdWrap>
+        </digiprovMD>
+        <digiprovMD ID="AMD.3" ADMID="AMD.6">
+            <mdWrap MIMETYPE="text/xml" MDTYPE="PREMIS:EVENT">
+                <xmlData>
+                    <premis:event>
+                        <premis:eventIdentifier>
+                            <premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+                            <premis:eventIdentifierValue>06127647-5f1c-466d-a685-8c354129c10f</premis:eventIdentifierValue>
+                        </premis:eventIdentifier>
+                        <premis:eventType>packageDelivery</premis:eventType>
+                        <premis:eventDateTime>2019-01-17T17:02:36.027+01:00</premis:eventDateTime>
+                        <premis:eventDetail>Prestation 560 : traitement complémentaire</premis:eventDetail>
+                        <premis:linkingAgentIdentifier>
+                            <premis:linkingAgentIdentifierType>UUID</premis:linkingAgentIdentifierType>
+                            <premis:linkingAgentIdentifierValue>8a241ea3-9ba6-46db-acd7-1da09b48724f</premis:linkingAgentIdentifierValue>
+                            <premis:linkingAgentRole>performer</premis:linkingAgentRole>
+                        </premis:linkingAgentIdentifier>
+                        <premis:linkingAgentIdentifier>
+                            <premis:linkingAgentIdentifierType>BnFApplication</premis:linkingAgentIdentifierType>
+                            <premis:linkingAgentIdentifierValue>info:bnf/spar/agent/bibliothequeNationaleDeFrance</premis:linkingAgentIdentifierValue>
+                            <premis:linkingAgentRole>issuer</premis:linkingAgentRole>
+                        </premis:linkingAgentIdentifier>
+                        <premis:linkingObjectIdentifier>
+                            <premis:linkingObjectIdentifierType>BTC</premis:linkingObjectIdentifierType>
+                            <premis:linkingObjectIdentifierValue>unknown</premis:linkingObjectIdentifierValue>
+                            <premis:linkingObjectRole>request</premis:linkingObjectRole>
+                        </premis:linkingObjectIdentifier>
+                        <premis:linkingObjectIdentifier>
+                            <premis:linkingObjectIdentifierType>USE</premis:linkingObjectIdentifierType>
+                            <premis:linkingObjectIdentifierValue>ocr</premis:linkingObjectIdentifierValue>
+                            <premis:linkingObjectRole>outcome</premis:linkingObjectRole>
+                        </premis:linkingObjectIdentifier>
+                    </premis:event>
+                </xmlData>
+            </mdWrap>
+        </digiprovMD>
+        <digiprovMD ID="AMD.4">
+            <mdWrap MIMETYPE="text/xml" MDTYPE="PREMIS:EVENT">
+                <xmlData>
+                    <premis:event>
+                        <premis:eventIdentifier>
+                            <premis:eventIdentifierType>UUID</premis:eventIdentifierType>
+                            <premis:eventIdentifierValue>34e3f015-b544-4112-b163-b9d3947ad836</premis:eventIdentifierValue>
+                        </premis:eventIdentifier>
+                        <premis:eventType>disseminationCompletion</premis:eventType>
+                        <premis:eventDateTime>2019-01-17T17:02:36.027+01:00</premis:eventDateTime>
+                        <premis:eventDetail>Diffusion pour traitement complémentaire</premis:eventDetail>
+                        <premis:linkingAgentIdentifier>
+                            <premis:linkingAgentIdentifierType>ark</premis:linkingAgentIdentifierType>
+                            <premis:linkingAgentIdentifierValue>ark:/12148/br2d2147/act24</premis:linkingAgentIdentifierValue>
+                            <premis:linkingAgentRole>performer</premis:linkingAgentRole>
+                        </premis:linkingAgentIdentifier>
+                        <premis:linkingObjectIdentifier>
+                            <premis:linkingObjectIdentifierType>ark</premis:linkingObjectIdentifierType>
+                            <premis:linkingObjectIdentifierValue>ark:/12148/bpt6k5628146t.version0.release0</premis:linkingObjectIdentifierValue>
+                            <premis:linkingObjectRole>source</premis:linkingObjectRole>
+                        </premis:linkingObjectIdentifier>
+                    </premis:event>
+                </xmlData>
+            </mdWrap>
+        </digiprovMD>
+        <digiprovMD ID="AMD.5">
+            <mdWrap MIMETYPE="text/xml" MDTYPE="PREMIS:AGENT">
+                <xmlData>
+                    <premis:agent>
+                        <premis:agentIdentifier>
+                            <premis:agentIdentifierType>UUID</premis:agentIdentifierType>
+                            <premis:agentIdentifierValue>b05394bb-b816-47c0-8eaa-c6f161fff1b8</premis:agentIdentifierValue>
+                        </premis:agentIdentifier>
+                        <premis:agentName>FineReader</premis:agentName>
+                        <premis:agentType>software</premis:agentType>
+                        <premis:agentNote>version : Engine 11 - Linux-x86_64-11.1.19.963560</premis:agentNote>
+                        <premis:agentNote>origine : ABBYY</premis:agentNote>
+                    </premis:agent>
+                </xmlData>
+            </mdWrap>
+        </digiprovMD>
+        <digiprovMD ID="AMD.6">
+            <mdWrap MIMETYPE="text/xml" MDTYPE="PREMIS:AGENT">
+                <xmlData>
+                    <premis:agent>
+                        <premis:agentIdentifier>
+                            <premis:agentIdentifierType>UUID</premis:agentIdentifierType>
+                            <premis:agentIdentifierValue>8a241ea3-9ba6-46db-acd7-1da09b48724f</premis:agentIdentifierValue>
+                        </premis:agentIdentifier>
+                        <premis:agentName>Batch OCR interne</premis:agentName>
+                        <premis:agentType>software</premis:agentType>
+                        <premis:agentNote>version : 1.0</premis:agentNote>
+                        <premis:agentNote>origine : Bnf</premis:agentNote>
+                    </premis:agent>
+                </xmlData>
+            </mdWrap>
+        </digiprovMD>
+    </amdSec>
+    <fileSec>
+        <fileGrp ID="GRP.1" USE="ocr">
+            <file ID="ocr.1" ADMID="AMD.1 AMD.2" CHECKSUM="f0e18cd787e8775c9a828e56ee04f692" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000001.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.2" ADMID="AMD.1 AMD.2" CHECKSUM="d8b2ee4d4f7985d028e41be9bfabdf0b" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000002.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.3" ADMID="AMD.1 AMD.2" CHECKSUM="ff30e6d8619c5a731232c5909f0509f9" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000003.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.4" ADMID="AMD.1 AMD.2" CHECKSUM="d0b93f6f6c1ba948f5109193ce8c0522" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000004.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.5" ADMID="AMD.1 AMD.2" CHECKSUM="8f4c30b5980bf010142e6b9919adc4b1" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000005.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.6" ADMID="AMD.1 AMD.2" CHECKSUM="88e57cf23cc687aa791aab6cd26c2314" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000006.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.7" ADMID="AMD.1 AMD.2" CHECKSUM="26657c26cdcb1f43d8ae9c7c816604f3" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000007.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.8" ADMID="AMD.1 AMD.2" CHECKSUM="6e035e544f36b8b531a06fce3caf56fe" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000008.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.9" ADMID="AMD.1 AMD.2" CHECKSUM="6ea5a6e5ef7a62221fe094e3b7b073bb" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000009.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.10" ADMID="AMD.1 AMD.2" CHECKSUM="1d7ff172323ee729781b3f7ca6830854" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000010.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.11" ADMID="AMD.1 AMD.2" CHECKSUM="c1da2c3818ecffda45a990ac56fd60a9" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000011.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.12" ADMID="AMD.1 AMD.2" CHECKSUM="33b393772164685642342ce32f9c3b0f" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000012.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.13" ADMID="AMD.1 AMD.2" CHECKSUM="08abd8a780d536b30d782e40ac427892" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000013.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.14" ADMID="AMD.1 AMD.2" CHECKSUM="23ab9388dbef77a196dcd30963e68ae0" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000014.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.15" ADMID="AMD.1 AMD.2" CHECKSUM="b2b33539f5ca1d5ce56fb1d2596a74e3" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000015.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.16" ADMID="AMD.1 AMD.2" CHECKSUM="0290dfbe08857dfedc57016bd7169f78" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000016.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.17" ADMID="AMD.1 AMD.2" CHECKSUM="0c9f705e89e121ebaf72c2be17799bad" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000017.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.18" ADMID="AMD.1 AMD.2" CHECKSUM="3d48f26bb40c5b3f4221af56a086d79e" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000018.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.19" ADMID="AMD.1 AMD.2" CHECKSUM="c9a98bb7bf4e0c0abe2f8101dfdeb6c0" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000019.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.20" ADMID="AMD.1 AMD.2" CHECKSUM="7e7c6d1392cdbde9233af16a6b81d76d" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000020.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.21" ADMID="AMD.1 AMD.2" CHECKSUM="547cb5a122aa83269f37699c8d9f8242" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000021.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.22" ADMID="AMD.1 AMD.2" CHECKSUM="c1fe407bf82e8e53aede74bd5bc0e5e8" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000022.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.23" ADMID="AMD.1 AMD.2" CHECKSUM="998a4a3f69775fa186e6150e8f06ffde" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000023.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.24" ADMID="AMD.1 AMD.2" CHECKSUM="f856892603d9962f6c5d0a17b574d409" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000024.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.25" ADMID="AMD.1 AMD.2" CHECKSUM="901187fa4bce5e73bc5323c106963401" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000025.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.26" ADMID="AMD.1 AMD.2" CHECKSUM="706e68213f07a8540784ba76708abfd9" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000026.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.27" ADMID="AMD.1 AMD.2" CHECKSUM="9d770197839dffb84e411969cdf07b4c" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000027.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.28" ADMID="AMD.1 AMD.2" CHECKSUM="bcb63af0e9d35e45bf37425e5a19ffb7" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000028.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.29" ADMID="AMD.1 AMD.2" CHECKSUM="fbc33f97a89c5574ed516faba5e0a5dc" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000029.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.30" ADMID="AMD.1 AMD.2" CHECKSUM="3a5bda3dfd6fc0150690bafd3c7f6bcc" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000030.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.31" ADMID="AMD.1 AMD.2" CHECKSUM="5811433c606a6ebc24a40f541919db63" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000031.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.32" ADMID="AMD.1 AMD.2" CHECKSUM="15c25ebbc12772c984ce3bcce762f64e" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000032.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.33" ADMID="AMD.1 AMD.2" CHECKSUM="57a18def13be0dfe2586eea65254a299" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000033.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.34" ADMID="AMD.1 AMD.2" CHECKSUM="22fa5f430e5cd07d28c54115bd4995fe" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000034.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.35" ADMID="AMD.1 AMD.2" CHECKSUM="d039b823db8ed28843dec31e19fbb4d4" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000035.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.36" ADMID="AMD.1 AMD.2" CHECKSUM="50b0f3cb074b179a39df0f2927faf8b7" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000036.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.37" ADMID="AMD.1 AMD.2" CHECKSUM="0ccbe1e6b612e34bb7bb4f9753326263" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000037.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.38" ADMID="AMD.1 AMD.2" CHECKSUM="4f9c6cca5fd8f9f52e00ecfe257c25b0" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000038.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.39" ADMID="AMD.1 AMD.2" CHECKSUM="dfa23d7f042bf0322877ca396b19d7dc" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000039.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.40" ADMID="AMD.1 AMD.2" CHECKSUM="1eba610f573527cbb79de4df8e1b7cd0" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000040.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.41" ADMID="AMD.1 AMD.2" CHECKSUM="f6059f506d89ab5d744807baa3385236" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000041.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.42" ADMID="AMD.1 AMD.2" CHECKSUM="2dce0c79c16715d3fd05bf5dde4720fa" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000042.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.43" ADMID="AMD.1 AMD.2" CHECKSUM="eb1a89f189715b4f6368b8c11fc2312a" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000043.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.44" ADMID="AMD.1 AMD.2" CHECKSUM="2db48b30decf7e7f430f7f06d596dd90" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000044.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.45" ADMID="AMD.1 AMD.2" CHECKSUM="a4db47c7b1422129261380012fdf0601" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000045.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.46" ADMID="AMD.1 AMD.2" CHECKSUM="1131104dd6f0ce3f0f777c54b3ad190b" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000046.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.47" ADMID="AMD.1 AMD.2" CHECKSUM="fd4d41fda0499135db21f82e106dedff" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000047.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.48" ADMID="AMD.1 AMD.2" CHECKSUM="dcff30d5701355872a77154c1eb961f4" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000048.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.49" ADMID="AMD.1 AMD.2" CHECKSUM="0b3280f40b352467eaeb7c49f36fa060" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000049.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.50" ADMID="AMD.1 AMD.2" CHECKSUM="6838d333ec1b4f9ef393bd6b85df7f7a" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000050.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.51" ADMID="AMD.1 AMD.2" CHECKSUM="6f78381baacaddab040ef41c89af7458" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000051.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.52" ADMID="AMD.1 AMD.2" CHECKSUM="af2be4e8fa22d3f8dea0a62f9d0b799f" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000052.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.53" ADMID="AMD.1 AMD.2" CHECKSUM="e2a6b5dc151732482aa80dadfffd734f" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000053.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.54" ADMID="AMD.1 AMD.2" CHECKSUM="d997c7fa368e25ea9640979f989fc684" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000054.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.55" ADMID="AMD.1 AMD.2" CHECKSUM="1ed6f33f37f72937ec5380a2ac346ad7" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000055.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.56" ADMID="AMD.1 AMD.2" CHECKSUM="0c494e5d9f4ec50ef7ceddf373da961e" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000056.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.57" ADMID="AMD.1 AMD.2" CHECKSUM="5d1cb26c65be8c5ae9e1ccbdac427e4a" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000057.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.58" ADMID="AMD.1 AMD.2" CHECKSUM="417542af6ce6a82c0a12b3c5330820f9" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000058.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.59" ADMID="AMD.1 AMD.2" CHECKSUM="8c2e41acbfdcaee5dcb0997bdae70a91" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000059.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.60" ADMID="AMD.1 AMD.2" CHECKSUM="aab7f561bb06378c1f733b3bedd83905" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000060.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.61" ADMID="AMD.1 AMD.2" CHECKSUM="52af9f9757f6ec8cd24df934b584db5e" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000061.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.62" ADMID="AMD.1 AMD.2" CHECKSUM="0dace0b91e79e4a4967a7234e7e6e046" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000062.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.63" ADMID="AMD.1 AMD.2" CHECKSUM="4c446322d61714affe6066e780de361f" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000063.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.64" ADMID="AMD.1 AMD.2" CHECKSUM="79b9f659c2d7a43f95a08ff02cad33b5" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000064.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.65" ADMID="AMD.1 AMD.2" CHECKSUM="f2be6dbb1d1384b2385a69d8e915d12f" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000065.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.66" ADMID="AMD.1 AMD.2" CHECKSUM="df6679230ee2bd5fa2fb23cea94c87ff" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000066.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.67" ADMID="AMD.1 AMD.2" CHECKSUM="04e4af9cc60b47a1edc441d9aa117db6" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000067.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.68" ADMID="AMD.1 AMD.2" CHECKSUM="25356001b7cedb43f3eb7070800945bf" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000068.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.69" ADMID="AMD.1 AMD.2" CHECKSUM="33f48635597e7683d93d0bd2d542f3ae" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000069.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.70" ADMID="AMD.1 AMD.2" CHECKSUM="d81b7f413b6f928780f929af0fc26dd1" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000070.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.71" ADMID="AMD.1 AMD.2" CHECKSUM="a2e8f0dc12e96a86e9ea09059ecb40a9" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000071.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.72" ADMID="AMD.1 AMD.2" CHECKSUM="08a739047d8cb3f85cdbb7dfab9edc30" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000072.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.73" ADMID="AMD.1 AMD.2" CHECKSUM="2f1546909533be5b6e6fd291963e6742" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000073.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.74" ADMID="AMD.1 AMD.2" CHECKSUM="b67f376d58ecf13c4c23e1f9f26f5af8" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000074.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.75" ADMID="AMD.1 AMD.2" CHECKSUM="2ff0f780bd570d7d54944933bfcf7749" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000075.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.76" ADMID="AMD.1 AMD.2" CHECKSUM="8f5de1a7378ecb8dc403c09069814c61" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000076.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.77" ADMID="AMD.1 AMD.2" CHECKSUM="c64a3f697b6ffe89be78184fb421d206" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000077.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.78" ADMID="AMD.1 AMD.2" CHECKSUM="370f0c5d95fe44677a634ec66d038f47" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000078.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.79" ADMID="AMD.1 AMD.2" CHECKSUM="6fa34d3b3911eb14bf47fc84eff5624f" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000079.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.80" ADMID="AMD.1 AMD.2" CHECKSUM="c98ed37ea2c3ce4ff5b4b5134a6ddaf0" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000080.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.81" ADMID="AMD.1 AMD.2" CHECKSUM="f6fb0ed9b621b427d356a4d2fb86563a" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000081.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.82" ADMID="AMD.1 AMD.2" CHECKSUM="fa038ab43af157f66a93e1f61bb363b2" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000082.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.83" ADMID="AMD.1 AMD.2" CHECKSUM="231b35e1c13cc04674d1cc36726a6b77" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000083.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.84" ADMID="AMD.1 AMD.2" CHECKSUM="a087a5b14376f6a7956dd860eaef3799" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000084.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.85" ADMID="AMD.1 AMD.2" CHECKSUM="1ecb95f0205d1bfda81ec3a1ce984fed" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000085.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.86" ADMID="AMD.1 AMD.2" CHECKSUM="a5206b13e0d07434fbf4d13884f38d02" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000086.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.87" ADMID="AMD.1 AMD.2" CHECKSUM="80f5faf124c233c0fd9ba18938c57552" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000087.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.88" ADMID="AMD.1 AMD.2" CHECKSUM="3006719c45c6be9b4b1e5481a6fd75d9" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000088.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.89" ADMID="AMD.1 AMD.2" CHECKSUM="029de8822df0b198a7434010b6c63e7c" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000089.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.90" ADMID="AMD.1 AMD.2" CHECKSUM="e5e5b975297c5806a55fbbb4160573ec" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000090.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.91" ADMID="AMD.1 AMD.2" CHECKSUM="5b180f29ad394ff2f751bad8d0ddc4ec" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000091.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.92" ADMID="AMD.1 AMD.2" CHECKSUM="8e3406924217aeb0af4a8df1e45b256b" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000092.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.93" ADMID="AMD.1 AMD.2" CHECKSUM="2e6f71fa10c180aa134969096bcfe322" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000093.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.94" ADMID="AMD.1 AMD.2" CHECKSUM="37519bbc587ac2437599344e531c39d0" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000094.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.95" ADMID="AMD.1 AMD.2" CHECKSUM="a358475ba7a1dc2cb134801ac1855535" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000095.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.96" ADMID="AMD.1 AMD.2" CHECKSUM="25108445897cbc154b38e30135cce742" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000096.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.97" ADMID="AMD.1 AMD.2" CHECKSUM="2488ecd8db6aa5233d373032073279f6" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000097.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.98" ADMID="AMD.1 AMD.2" CHECKSUM="e1cff1855f689625aaa5cf57073b9036" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000098.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.99" ADMID="AMD.1 AMD.2" CHECKSUM="77d76adb294d5bbbe524567510df16ba" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000099.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.100" ADMID="AMD.1 AMD.2" CHECKSUM="41fe752427fe8b2433197ff43753ad32" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000100.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.101" ADMID="AMD.1 AMD.2" CHECKSUM="ad482265e09ec3e3ba2244051f3bd6fb" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000101.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.102" ADMID="AMD.1 AMD.2" CHECKSUM="8013da41a428a4a5c9148519304f5602" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000102.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.103" ADMID="AMD.1 AMD.2" CHECKSUM="fb7d0fbc3b1e6de4fd2a7682fe1209e7" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000103.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.104" ADMID="AMD.1 AMD.2" CHECKSUM="5fbbb7269c234a304ce222cfad8bfac6" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000104.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.105" ADMID="AMD.1 AMD.2" CHECKSUM="387cc1b5144dc6bdcc1611607ef55f01" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000105.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.106" ADMID="AMD.1 AMD.2" CHECKSUM="3d2fe53ced280f98d2663bf938b3125d" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000106.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.107" ADMID="AMD.1 AMD.2" CHECKSUM="41b7202c10f8eb63c8039338911a7f14" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000107.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.108" ADMID="AMD.1 AMD.2" CHECKSUM="2179004d2671280852f5545c053af4d9" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000108.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.109" ADMID="AMD.1 AMD.2" CHECKSUM="034b26e37bc1c39188231846ef1ddc66" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000109.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.110" ADMID="AMD.1 AMD.2" CHECKSUM="5a2cbd837eea6c684be3f0c3329c8237" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000110.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.111" ADMID="AMD.1 AMD.2" CHECKSUM="47c1e809897aba6ee4952fdc95e60de2" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000111.xml" LOCTYPE="URL"/>
+            </file>
+            <file ID="ocr.112" ADMID="AMD.1 AMD.2" CHECKSUM="68cda73af89903338297360b68739cfa" CHECKSUMTYPE="MD5">
+                <FLocat xlink:type="simple" xlink:href="ocr/X0000112.xml" LOCTYPE="URL"/>
+            </file>
+        </fileGrp>
+    </fileSec>
+    <structMap TYPE="physical">
+        <div ID="DIV.1" TYPE="set">
+            <div ID="DIV.2" DMDID="DMD.1" ADMID="AMD.3" TYPE="group">
+                <div ID="DIV.3" ORDER="1" TYPE="object">
+                    <fptr FILEID="ocr.1"/>
+                </div>
+                <div ID="DIV.4" ORDER="2" TYPE="object">
+                    <fptr FILEID="ocr.2"/>
+                </div>
+                <div ID="DIV.5" ORDER="3" TYPE="object">
+                    <fptr FILEID="ocr.3"/>
+                </div>
+                <div ID="DIV.6" ORDER="4" TYPE="object">
+                    <fptr FILEID="ocr.4"/>
+                </div>
+                <div ID="DIV.7" ORDER="5" TYPE="object">
+                    <fptr FILEID="ocr.5"/>
+                </div>
+                <div ID="DIV.8" ORDER="6" TYPE="object">
+                    <fptr FILEID="ocr.6"/>
+                </div>
+                <div ID="DIV.9" ORDER="7" TYPE="object">
+                    <fptr FILEID="ocr.7"/>
+                </div>
+                <div ID="DIV.10" ORDER="8" TYPE="object">
+                    <fptr FILEID="ocr.8"/>
+                </div>
+                <div ID="DIV.11" ORDER="9" TYPE="object">
+                    <fptr FILEID="ocr.9"/>
+                </div>
+                <div ID="DIV.12" ORDER="10" TYPE="object">
+                    <fptr FILEID="ocr.10"/>
+                </div>
+                <div ID="DIV.13" ORDER="11" TYPE="object">
+                    <fptr FILEID="ocr.11"/>
+                </div>
+                <div ID="DIV.14" ORDER="12" TYPE="object">
+                    <fptr FILEID="ocr.12"/>
+                </div>
+                <div ID="DIV.15" ORDER="13" TYPE="object">
+                    <fptr FILEID="ocr.13"/>
+                </div>
+                <div ID="DIV.16" ORDER="14" TYPE="object">
+                    <fptr FILEID="ocr.14"/>
+                </div>
+                <div ID="DIV.17" ORDER="15" TYPE="object">
+                    <fptr FILEID="ocr.15"/>
+                </div>
+                <div ID="DIV.18" ORDER="16" TYPE="object">
+                    <fptr FILEID="ocr.16"/>
+                </div>
+                <div ID="DIV.19" ORDER="17" TYPE="object">
+                    <fptr FILEID="ocr.17"/>
+                </div>
+                <div ID="DIV.20" ORDER="18" TYPE="object">
+                    <fptr FILEID="ocr.18"/>
+                </div>
+                <div ID="DIV.21" ORDER="19" TYPE="object">
+                    <fptr FILEID="ocr.19"/>
+                </div>
+                <div ID="DIV.22" ORDER="20" TYPE="object">
+                    <fptr FILEID="ocr.20"/>
+                </div>
+                <div ID="DIV.23" ORDER="21" TYPE="object">
+                    <fptr FILEID="ocr.21"/>
+                </div>
+                <div ID="DIV.24" ORDER="22" TYPE="object">
+                    <fptr FILEID="ocr.22"/>
+                </div>
+                <div ID="DIV.25" ORDER="23" TYPE="object">
+                    <fptr FILEID="ocr.23"/>
+                </div>
+                <div ID="DIV.26" ORDER="24" TYPE="object">
+                    <fptr FILEID="ocr.24"/>
+                </div>
+                <div ID="DIV.27" ORDER="25" TYPE="object">
+                    <fptr FILEID="ocr.25"/>
+                </div>
+                <div ID="DIV.28" ORDER="26" TYPE="object">
+                    <fptr FILEID="ocr.26"/>
+                </div>
+                <div ID="DIV.29" ORDER="27" TYPE="object">
+                    <fptr FILEID="ocr.27"/>
+                </div>
+                <div ID="DIV.30" ORDER="28" TYPE="object">
+                    <fptr FILEID="ocr.28"/>
+                </div>
+                <div ID="DIV.31" ORDER="29" TYPE="object">
+                    <fptr FILEID="ocr.29"/>
+                </div>
+                <div ID="DIV.32" ORDER="30" TYPE="object">
+                    <fptr FILEID="ocr.30"/>
+                </div>
+                <div ID="DIV.33" ORDER="31" TYPE="object">
+                    <fptr FILEID="ocr.31"/>
+                </div>
+                <div ID="DIV.34" ORDER="32" TYPE="object">
+                    <fptr FILEID="ocr.32"/>
+                </div>
+                <div ID="DIV.35" ORDER="33" TYPE="object">
+                    <fptr FILEID="ocr.33"/>
+                </div>
+                <div ID="DIV.36" ORDER="34" TYPE="object">
+                    <fptr FILEID="ocr.34"/>
+                </div>
+                <div ID="DIV.37" ORDER="35" TYPE="object">
+                    <fptr FILEID="ocr.35"/>
+                </div>
+                <div ID="DIV.38" ORDER="36" TYPE="object">
+                    <fptr FILEID="ocr.36"/>
+                </div>
+                <div ID="DIV.39" ORDER="37" TYPE="object">
+                    <fptr FILEID="ocr.37"/>
+                </div>
+                <div ID="DIV.40" ORDER="38" TYPE="object">
+                    <fptr FILEID="ocr.38"/>
+                </div>
+                <div ID="DIV.41" ORDER="39" TYPE="object">
+                    <fptr FILEID="ocr.39"/>
+                </div>
+                <div ID="DIV.42" ORDER="40" TYPE="object">
+                    <fptr FILEID="ocr.40"/>
+                </div>
+                <div ID="DIV.43" ORDER="41" TYPE="object">
+                    <fptr FILEID="ocr.41"/>
+                </div>
+                <div ID="DIV.44" ORDER="42" TYPE="object">
+                    <fptr FILEID="ocr.42"/>
+                </div>
+                <div ID="DIV.45" ORDER="43" TYPE="object">
+                    <fptr FILEID="ocr.43"/>
+                </div>
+                <div ID="DIV.46" ORDER="44" TYPE="object">
+                    <fptr FILEID="ocr.44"/>
+                </div>
+                <div ID="DIV.47" ORDER="45" TYPE="object">
+                    <fptr FILEID="ocr.45"/>
+                </div>
+                <div ID="DIV.48" ORDER="46" TYPE="object">
+                    <fptr FILEID="ocr.46"/>
+                </div>
+                <div ID="DIV.49" ORDER="47" TYPE="object">
+                    <fptr FILEID="ocr.47"/>
+                </div>
+                <div ID="DIV.50" ORDER="48" TYPE="object">
+                    <fptr FILEID="ocr.48"/>
+                </div>
+                <div ID="DIV.51" ORDER="49" TYPE="object">
+                    <fptr FILEID="ocr.49"/>
+                </div>
+                <div ID="DIV.52" ORDER="50" TYPE="object">
+                    <fptr FILEID="ocr.50"/>
+                </div>
+                <div ID="DIV.53" ORDER="51" TYPE="object">
+                    <fptr FILEID="ocr.51"/>
+                </div>
+                <div ID="DIV.54" ORDER="52" TYPE="object">
+                    <fptr FILEID="ocr.52"/>
+                </div>
+                <div ID="DIV.55" ORDER="53" TYPE="object">
+                    <fptr FILEID="ocr.53"/>
+                </div>
+                <div ID="DIV.56" ORDER="54" TYPE="object">
+                    <fptr FILEID="ocr.54"/>
+                </div>
+                <div ID="DIV.57" ORDER="55" TYPE="object">
+                    <fptr FILEID="ocr.55"/>
+                </div>
+                <div ID="DIV.58" ORDER="56" TYPE="object">
+                    <fptr FILEID="ocr.56"/>
+                </div>
+                <div ID="DIV.59" ORDER="57" TYPE="object">
+                    <fptr FILEID="ocr.57"/>
+                </div>
+                <div ID="DIV.60" ORDER="58" TYPE="object">
+                    <fptr FILEID="ocr.58"/>
+                </div>
+                <div ID="DIV.61" ORDER="59" TYPE="object">
+                    <fptr FILEID="ocr.59"/>
+                </div>
+                <div ID="DIV.62" ORDER="60" TYPE="object">
+                    <fptr FILEID="ocr.60"/>
+                </div>
+                <div ID="DIV.63" ORDER="61" TYPE="object">
+                    <fptr FILEID="ocr.61"/>
+                </div>
+                <div ID="DIV.64" ORDER="62" TYPE="object">
+                    <fptr FILEID="ocr.62"/>
+                </div>
+                <div ID="DIV.65" ORDER="63" TYPE="object">
+                    <fptr FILEID="ocr.63"/>
+                </div>
+                <div ID="DIV.66" ORDER="64" TYPE="object">
+                    <fptr FILEID="ocr.64"/>
+                </div>
+                <div ID="DIV.67" ORDER="65" TYPE="object">
+                    <fptr FILEID="ocr.65"/>
+                </div>
+                <div ID="DIV.68" ORDER="66" TYPE="object">
+                    <fptr FILEID="ocr.66"/>
+                </div>
+                <div ID="DIV.69" ORDER="67" TYPE="object">
+                    <fptr FILEID="ocr.67"/>
+                </div>
+                <div ID="DIV.70" ORDER="68" TYPE="object">
+                    <fptr FILEID="ocr.68"/>
+                </div>
+                <div ID="DIV.71" ORDER="69" TYPE="object">
+                    <fptr FILEID="ocr.69"/>
+                </div>
+                <div ID="DIV.72" ORDER="70" TYPE="object">
+                    <fptr FILEID="ocr.70"/>
+                </div>
+                <div ID="DIV.73" ORDER="71" TYPE="object">
+                    <fptr FILEID="ocr.71"/>
+                </div>
+                <div ID="DIV.74" ORDER="72" TYPE="object">
+                    <fptr FILEID="ocr.72"/>
+                </div>
+                <div ID="DIV.75" ORDER="73" TYPE="object">
+                    <fptr FILEID="ocr.73"/>
+                </div>
+                <div ID="DIV.76" ORDER="74" TYPE="object">
+                    <fptr FILEID="ocr.74"/>
+                </div>
+                <div ID="DIV.77" ORDER="75" TYPE="object">
+                    <fptr FILEID="ocr.75"/>
+                </div>
+                <div ID="DIV.78" ORDER="76" TYPE="object">
+                    <fptr FILEID="ocr.76"/>
+                </div>
+                <div ID="DIV.79" ORDER="77" TYPE="object">
+                    <fptr FILEID="ocr.77"/>
+                </div>
+                <div ID="DIV.80" ORDER="78" TYPE="object">
+                    <fptr FILEID="ocr.78"/>
+                </div>
+                <div ID="DIV.81" ORDER="79" TYPE="object">
+                    <fptr FILEID="ocr.79"/>
+                </div>
+                <div ID="DIV.82" ORDER="80" TYPE="object">
+                    <fptr FILEID="ocr.80"/>
+                </div>
+                <div ID="DIV.83" ORDER="81" TYPE="object">
+                    <fptr FILEID="ocr.81"/>
+                </div>
+                <div ID="DIV.84" ORDER="82" TYPE="object">
+                    <fptr FILEID="ocr.82"/>
+                </div>
+                <div ID="DIV.85" ORDER="83" TYPE="object">
+                    <fptr FILEID="ocr.83"/>
+                </div>
+                <div ID="DIV.86" ORDER="84" TYPE="object">
+                    <fptr FILEID="ocr.84"/>
+                </div>
+                <div ID="DIV.87" ORDER="85" TYPE="object">
+                    <fptr FILEID="ocr.85"/>
+                </div>
+                <div ID="DIV.88" ORDER="86" TYPE="object">
+                    <fptr FILEID="ocr.86"/>
+                </div>
+                <div ID="DIV.89" ORDER="87" TYPE="object">
+                    <fptr FILEID="ocr.87"/>
+                </div>
+                <div ID="DIV.90" ORDER="88" TYPE="object">
+                    <fptr FILEID="ocr.88"/>
+                </div>
+                <div ID="DIV.91" ORDER="89" TYPE="object">
+                    <fptr FILEID="ocr.89"/>
+                </div>
+                <div ID="DIV.92" ORDER="90" TYPE="object">
+                    <fptr FILEID="ocr.90"/>
+                </div>
+                <div ID="DIV.93" ORDER="91" TYPE="object">
+                    <fptr FILEID="ocr.91"/>
+                </div>
+                <div ID="DIV.94" ORDER="92" TYPE="object">
+                    <fptr FILEID="ocr.92"/>
+                </div>
+                <div ID="DIV.95" ORDER="93" TYPE="object">
+                    <fptr FILEID="ocr.93"/>
+                </div>
+                <div ID="DIV.96" ORDER="94" TYPE="object">
+                    <fptr FILEID="ocr.94"/>
+                </div>
+                <div ID="DIV.97" ORDER="95" TYPE="object">
+                    <fptr FILEID="ocr.95"/>
+                </div>
+                <div ID="DIV.98" ORDER="96" TYPE="object">
+                    <fptr FILEID="ocr.96"/>
+                </div>
+                <div ID="DIV.99" ORDER="97" TYPE="object">
+                    <fptr FILEID="ocr.97"/>
+                </div>
+                <div ID="DIV.100" ORDER="98" TYPE="object">
+                    <fptr FILEID="ocr.98"/>
+                </div>
+                <div ID="DIV.101" ORDER="99" TYPE="object">
+                    <fptr FILEID="ocr.99"/>
+                </div>
+                <div ID="DIV.102" ORDER="100" TYPE="object">
+                    <fptr FILEID="ocr.100"/>
+                </div>
+                <div ID="DIV.103" ORDER="101" TYPE="object">
+                    <fptr FILEID="ocr.101"/>
+                </div>
+                <div ID="DIV.104" ORDER="102" TYPE="object">
+                    <fptr FILEID="ocr.102"/>
+                </div>
+                <div ID="DIV.105" ORDER="103" TYPE="object">
+                    <fptr FILEID="ocr.103"/>
+                </div>
+                <div ID="DIV.106" ORDER="104" TYPE="object">
+                    <fptr FILEID="ocr.104"/>
+                </div>
+                <div ID="DIV.107" ORDER="105" TYPE="object">
+                    <fptr FILEID="ocr.105"/>
+                </div>
+                <div ID="DIV.108" ORDER="106" TYPE="object">
+                    <fptr FILEID="ocr.106"/>
+                </div>
+                <div ID="DIV.109" ORDER="107" TYPE="object">
+                    <fptr FILEID="ocr.107"/>
+                </div>
+                <div ID="DIV.110" ORDER="108" TYPE="object">
+                    <fptr FILEID="ocr.108"/>
+                </div>
+                <div ID="DIV.111" ORDER="109" TYPE="object">
+                    <fptr FILEID="ocr.109"/>
+                </div>
+                <div ID="DIV.112" ORDER="110" TYPE="object">
+                    <fptr FILEID="ocr.110"/>
+                </div>
+                <div ID="DIV.113" ORDER="111" TYPE="object">
+                    <fptr FILEID="ocr.111"/>
+                </div>
+                <div ID="DIV.114" ORDER="112" TYPE="object">
+                    <fptr FILEID="ocr.112"/>
+                </div>
+            </div>
+        </div>
+    </structMap>
+</mets>
