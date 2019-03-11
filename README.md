@@ -22,10 +22,11 @@ Two DOS shell scripts are used:
 - parseAltos2Imprimes.bat
 - xslt.cmd
 
-4 XSLT stylesheets are located in the XLSt folder
+4 XSLT stylesheets are located in the XLST folder
 
 The XSLT transformations are performed with Xalan-Java. Path to the Java binary must be set in xslt.cmd.
 For each document stored in the DOCS folder, all the ALTO files found in the X folder are processed.
+
 The HTML format is generated in a "HTML" folder and rendered with CSS stylesheets.
 
 ##### Test
@@ -51,8 +52,8 @@ These symbols are used to transcribe the OCR information:
 - add: Pub
 
 Color codes:
-no highlight: words with WC = 1 
-pale yellow: words with  WC > 0,5 
-red: words with WC <= 0,5
+- no highlight: words with WC = 1 
+- pale yellow: words with  WC > 0,5 
+- red: words with WC <= 0,5
 
 
