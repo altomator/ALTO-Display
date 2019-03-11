@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/TR/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SCHEMAVERSION="alto_bnf-v2_0" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://bibnum.bnf.fr/schema/alto_bnf-v2_0.xsd">
+<Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>00000004.tif</fileName><fileIdentifier>ark:/12148/bpt6k5628146t/f4</fileIdentifier><documentIdentifier documentIdentifierLocation="NUM">5628146</documentIdentifier></sourceImageInformation><OCRProcessing ID="OCR_1"><ocrProcessingStep><processingDateTime>2019-01-17</processingDateTime><processingStepDescription>[001_OCR_BRUT]OCR BRUT 54.85 %</processingStepDescription><processingStepDescription>[002_CHARS]{32}</processingStepDescription><processingStepDescription>[007_STRINGS]{6}</processingStepDescription><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY FineReader Engine</softwareName><softwareVersion>11</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing></Description>
+<Styles>
+</Styles>
+<Layout>
+<Page ACCURACY="54.85" HEIGHT="1628" ID="PAG_00000004" PHYSICAL_IMG_NR="4" QUALITY="OK" WIDTH="999">
+<TopMargin HEIGHT="677" HPOS="0" ID="PAG_00000004_TopMargin" VPOS="0" WIDTH="999">
+</TopMargin>
+<LeftMargin HEIGHT="951" HPOS="0" ID="PAG_00000004_LeftMargin" VPOS="677" WIDTH="159">
+<TextBlock HEIGHT="93" HPOS="0" ID="PAG_00000004_TB000001" VPOS="1416" WIDTH="16" language="fr">
+<TextLine HEIGHT="70" HPOS="1" ID="PAG_00000004_TL000001" VPOS="1427" WIDTH="10"><String CONTENT="I" HEIGHT="70" HPOS="1" ID="PAG_00000004_ST000001" VPOS="1427" WC="0.3899999857" WIDTH="10"/></TextLine>
+</TextBlock><GraphicalElement HEIGHT="12" HPOS="0" ID="PAG_00000004_GE000001" VPOS="1616" WIDTH="159"/><GraphicalElement HEIGHT="230" HPOS="0" ID="PAG_00000004_GE000002" VPOS="831" WIDTH="20"/><GraphicalElement HEIGHT="351" HPOS="0" ID="PAG_00000004_GE000003" VPOS="1071" WIDTH="9"/><GraphicalElement HEIGHT="156" HPOS="0" ID="PAG_00000004_GE000004" VPOS="1472" WIDTH="7"/>
+</LeftMargin>
+<PrintSpace HEIGHT="951" HPOS="159" ID="PAG_00000004_PrintSpace" VPOS="677" WIDTH="840">
+<TextBlock HEIGHT="182" HPOS="159" ID="PAG_00000004_TB000002" VPOS="677" WIDTH="646" language="fr">
+<TextLine HEIGHT="44" HPOS="334" ID="PAG_00000004_TL000002" VPOS="682" WIDTH="304"><String CONTENT="LE" HEIGHT="34" HPOS="334" ID="PAG_00000004_ST000002" VPOS="687" WC="0.3600000143" WIDTH="63"/><SP HPOS="398" ID="PAG_00000004_SP000001" VPOS="688" WIDTH="22"/><String CONTENT="MODÈLE" HEIGHT="44" HPOS="421" ID="PAG_00000004_ST000003" VPOS="682" WC="0.5500000119" WIDTH="217"/></TextLine>
+<TextLine HEIGHT="51" HPOS="164" ID="PAG_00000004_TL000003" VPOS="802" WIDTH="635"><String CONTENT="DES" HEIGHT="32" HPOS="164" ID="PAG_00000004_ST000004" VPOS="802" WC="0.75" WIDTH="78"/><SP HPOS="243" ID="PAG_00000004_SP000002" VPOS="804" WIDTH="33"/><String CONTENT="JEUNES" HEIGHT="35" HPOS="277" ID="PAG_00000004_ST000005" VPOS="805" WC="0.7216666937" WIDTH="152"/><SP HPOS="430" ID="PAG_00000004_SP000003" VPOS="809" WIDTH="31"/><String CONTENT="PENSIONNAIRES." HEIGHT="40" HPOS="462" ID="PAG_00000004_ST000006" VPOS="813" WC="0.5192857385" WIDTH="337"/></TextLine>
+</TextBlock><Illustration HEIGHT="526" HPOS="185" ID="PAG_00000004_IL000001" VPOS="1102" WIDTH="814"/><GraphicalElement HEIGHT="12" HPOS="159" ID="PAG_00000004_GE000005" VPOS="1616" WIDTH="179"/><GraphicalElement HEIGHT="4" HPOS="338" ID="PAG_00000004_GE000006" VPOS="1624" WIDTH="171"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

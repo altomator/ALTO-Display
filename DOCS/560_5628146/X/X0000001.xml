@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/TR/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SCHEMAVERSION="alto_bnf-v2_0" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://bibnum.bnf.fr/schema/alto_bnf-v2_0.xsd">
+<Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>00000001.tif</fileName><fileIdentifier>ark:/12148/bpt6k5628146t/f1</fileIdentifier><documentIdentifier documentIdentifierLocation="NUM">5628146</documentIdentifier></sourceImageInformation><OCRProcessing ID="OCR_1"><ocrProcessingStep><processingDateTime>2019-01-17</processingDateTime><processingStepDescription>[001_OCR_BRUT]OCR BRUT 100 %</processingStepDescription><processingStepDescription>[002_CHARS]{0}</processingStepDescription><processingStepDescription>[007_STRINGS]{0}</processingStepDescription><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY FineReader Engine</softwareName><softwareVersion>11</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing></Description>
+<Styles>
+</Styles>
+<Layout>
+<Page ACCURACY="100" HEIGHT="1616" ID="PAG_00000001" PHYSICAL_IMG_NR="1" QUALITY="OK" WIDTH="946">
+<PrintSpace HEIGHT="1616" HPOS="0" ID="PAG_00000001_PrintSpace" VPOS="0" WIDTH="946"><Illustration HEIGHT="1616" HPOS="0" ID="PAG_00000001_IL000001" VPOS="0" WIDTH="946"/><GraphicalElement HEIGHT="8" HPOS="0" ID="PAG_00000001_GE000001" VPOS="0" WIDTH="946"/><GraphicalElement HEIGHT="8" HPOS="0" ID="PAG_00000001_GE000002" VPOS="1608" WIDTH="893"/><GraphicalElement HEIGHT="887" HPOS="926" ID="PAG_00000001_GE000003" VPOS="0" WIDTH="20"/><GraphicalElement HEIGHT="268" HPOS="929" ID="PAG_00000001_GE000004" VPOS="950" WIDTH="17"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

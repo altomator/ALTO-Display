@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/TR/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SCHEMAVERSION="alto_bnf-v2_0" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://bibnum.bnf.fr/schema/alto_bnf-v2_0.xsd">
+<Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>00000008.tif</fileName><fileIdentifier>ark:/12148/bpt6k5628146t/f8</fileIdentifier><documentIdentifier documentIdentifierLocation="NUM">5628146</documentIdentifier></sourceImageInformation><OCRProcessing ID="OCR_1"><ocrProcessingStep><processingDateTime>2019-01-17</processingDateTime><processingStepDescription>[001_OCR_BRUT]OCR BRUT 54.94 %</processingStepDescription><processingStepDescription>[002_CHARS]{67}</processingStepDescription><processingStepDescription>[007_STRINGS]{14}</processingStepDescription><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY FineReader Engine</softwareName><softwareVersion>11</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing></Description>
+<Styles>
+</Styles>
+<Layout>
+<Page ACCURACY="54.94" HEIGHT="1616" ID="PAG_00000008" PHYSICAL_IMG_NR="8" QUALITY="OK" WIDTH="975">
+<TopMargin HEIGHT="370" HPOS="0" ID="PAG_00000008_TopMargin" VPOS="0" WIDTH="975">
+</TopMargin>
+<LeftMargin HEIGHT="966" HPOS="0" ID="PAG_00000008_LeftMargin" VPOS="370" WIDTH="143">
+</LeftMargin>
+<RightMargin HEIGHT="966" HPOS="821" ID="PAG_00000008_RightMargin" VPOS="370" WIDTH="154">
+</RightMargin>
+<BottomMargin HEIGHT="280" HPOS="0" ID="PAG_00000008_BottomMargin" VPOS="1336" WIDTH="975">
+</BottomMargin>
+<PrintSpace HEIGHT="966" HPOS="143" ID="PAG_00000008_PrintSpace" VPOS="370" WIDTH="678"><Illustration HEIGHT="355" HPOS="301" ID="PAG_00000008_IL000001" VPOS="370" WIDTH="320"/>
+<TextBlock HEIGHT="347" HPOS="143" ID="PAG_00000008_TB000001" VPOS="989" WIDTH="678" language="fr">
+<TextLine HEIGHT="56" HPOS="220" ID="PAG_00000008_TL000001" VPOS="1000" WIDTH="279"><String CONTENT="Vtetcje" HEIGHT="56" HPOS="220" ID="PAG_00000008_ST000001" VPOS="1000" WC="0.200000003" WIDTH="108"/><SP HPOS="329" ID="PAG_00000008_SP000001" VPOS="1021" WIDTH="34"/><String CONTENT="oaitite," HEIGHT="44" HPOS="364" ID="PAG_00000008_ST000002" VPOS="1005" WC="0.3662500083" WIDTH="135"/></TextLine>
+<TextLine HEIGHT="44" HPOS="209" ID="PAG_00000008_TL000002" VPOS="1165" WIDTH="606"><String CONTENT="Je" HEIGHT="35" HPOS="209" ID="PAG_00000008_ST000003" VPOS="1173" WC="0.6100000143" WIDTH="42"/><SP HPOS="252" ID="PAG_00000008_SP000002" VPOS="1185" WIDTH="31"/><String CONTENT="vous" HEIGHT="25" HPOS="284" ID="PAG_00000008_ST000004" VPOS="1184" WC="0.6349999905" WIDTH="89"/><SP HPOS="374" ID="PAG_00000008_SP000003" VPOS="1184" WIDTH="37"/><String CONTENT="consacre" HEIGHT="25" HPOS="412" ID="PAG_00000008_ST000005" VPOS="1182" WC="0.6612499952" WIDTH="167"/><SP HPOS="580" ID="PAG_00000008_SP000004" VPOS="1169" WIDTH="35"/><String CONTENT="le" HEIGHT="36" HPOS="616" ID="PAG_00000008_ST000006" VPOS="1169" WC="0.7300000191" WIDTH="33"/><SP HPOS="650" ID="PAG_00000008_SP000005" VPOS="1173" WIDTH="42"/><String CONTENT="travail" HEIGHT="39" HPOS="693" ID="PAG_00000008_ST000007" VPOS="1165" WC="0.4285714328" WIDTH="122"/></TextLine>
+<TextLine HEIGHT="53" HPOS="149" ID="PAG_00000008_TL000003" VPOS="1246" WIDTH="666"><String CONTENT="que" HEIGHT="37" HPOS="149" ID="PAG_00000008_ST000008" VPOS="1262" WC="0.6299999952" WIDTH="70"/><SP HPOS="220" ID="PAG_00000008_SP000006" VPOS="1250" WIDTH="19"/><String CONTENT="j’entreprends" HEIGHT="53" HPOS="240" ID="PAG_00000008_ST000009" VPOS="1246" WC="0.722307682" WIDTH="260"/><SP HPOS="501" ID="PAG_00000008_SP000007" VPOS="1260" WIDTH="26"/><String CONTENT="sous" HEIGHT="25" HPOS="528" ID="PAG_00000008_ST000010" VPOS="1259" WC="0.3574999869" WIDTH="84"/><SP HPOS="613" ID="PAG_00000008_SP000008" VPOS="1259" WIDTH="30"/><String CONTENT="vos" HEIGHT="25" HPOS="644" ID="PAG_00000008_ST000011" VPOS="1258" WC="0.6333333254" WIDTH="62"/><SP HPOS="707" ID="PAG_00000008_SP000009" VPOS="1257" WIDTH="28"/><String CONTENT="aus-" HEIGHT="24" HPOS="736" ID="PAG_00000008_ST000012" VPOS="1256" WC="0.7975000143" WIDTH="79"/></TextLine>
+<TextLine HEIGHT="24" HPOS="697" ID="PAG_00000008_TL000004" VPOS="1306" WIDTH="40"><String CONTENT="i" HEIGHT="16" HPOS="697" ID="PAG_00000008_ST000013" VPOS="1314" WC="0.2899999917" WIDTH="10"/><SP HPOS="708" ID="PAG_00000008_SP000010" VPOS="1306" WIDTH="15"/><String CONTENT="*" HEIGHT="14" HPOS="724" ID="PAG_00000008_ST000014" VPOS="1306" WC="0.6299999952" WIDTH="13"/></TextLine>
+</TextBlock>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

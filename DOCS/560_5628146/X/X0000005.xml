@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/TR/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SCHEMAVERSION="alto_bnf-v2_0" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://bibnum.bnf.fr/schema/alto_bnf-v2_0.xsd">
+<Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>00000005.tif</fileName><fileIdentifier>ark:/12148/bpt6k5628146t/f5</fileIdentifier><documentIdentifier documentIdentifierLocation="NUM">5628146</documentIdentifier></sourceImageInformation><OCRProcessing ID="OCR_1"><ocrProcessingStep><processingDateTime>2019-01-17</processingDateTime><processingStepDescription>[001_OCR_BRUT]OCR BRUT 17.62 %</processingStepDescription><processingStepDescription>[002_CHARS]{9}</processingStepDescription><processingStepDescription>[007_STRINGS]{2}</processingStepDescription><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY FineReader Engine</softwareName><softwareVersion>11</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing></Description>
+<Styles>
+</Styles>
+<Layout>
+<Page ACCURACY="17.62" HEIGHT="1620" ID="PAG_00000005" PHYSICAL_IMG_NR="5" QUALITY="OK" WIDTH="975">
+<TopMargin HEIGHT="1598" HPOS="0" ID="PAG_00000005_TopMargin" VPOS="0" WIDTH="975">
+<TextBlock HEIGHT="33" HPOS="960" ID="PAG_00000005_TB000001" VPOS="191" WIDTH="15" language="fr">
+<TextLine HEIGHT="20" HPOS="966" ID="PAG_00000005_TL000001" VPOS="197" WIDTH="8"><String CONTENT="1" HEIGHT="20" HPOS="966" ID="PAG_00000005_ST000001" VPOS="197" WC="0" WIDTH="8"/></TextLine>
+</TextBlock><GraphicalElement HEIGHT="16" HPOS="0" ID="PAG_00000005_GE000001" VPOS="0" WIDTH="975"/><GraphicalElement HEIGHT="196" HPOS="968" ID="PAG_00000005_GE000002" VPOS="0" WIDTH="7"/>
+</TopMargin>
+<LeftMargin HEIGHT="22" HPOS="0" ID="PAG_00000005_LeftMargin" VPOS="1598" WIDTH="304">
+</LeftMargin>
+<RightMargin HEIGHT="22" HPOS="375" ID="PAG_00000005_RightMargin" VPOS="1598" WIDTH="600">
+</RightMargin>
+<PrintSpace HEIGHT="22" HPOS="304" ID="PAG_00000005_PrintSpace" VPOS="1598" WIDTH="71">
+<TextBlock HEIGHT="22" HPOS="304" ID="PAG_00000005_TB000002" VPOS="1598" WIDTH="71" language="fr">
+<TextLine HEIGHT="17" HPOS="304" ID="PAG_00000005_TL000002" VPOS="1603" WIDTH="71"><String CONTENT=",»,iâSÀ*" HEIGHT="17" HPOS="304" ID="PAG_00000005_ST000002" VPOS="1603" WC="0.3524999917" WIDTH="71"/></TextLine>
+</TextBlock><GraphicalElement HEIGHT="3" HPOS="317" ID="PAG_00000005_GE000003" VPOS="1617" WIDTH="58"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

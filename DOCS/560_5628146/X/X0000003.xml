@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/TR/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SCHEMAVERSION="alto_bnf-v2_0" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://bibnum.bnf.fr/schema/alto_bnf-v2_0.xsd">
+<Description><MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>00000003.tif</fileName><fileIdentifier>ark:/12148/bpt6k5628146t/f3</fileIdentifier><documentIdentifier documentIdentifierLocation="NUM">5628146</documentIdentifier></sourceImageInformation><OCRProcessing ID="OCR_1"><ocrProcessingStep><processingDateTime>2019-01-17</processingDateTime><processingStepDescription>[001_OCR_BRUT]OCR BRUT 100 %</processingStepDescription><processingStepDescription>[002_CHARS]{0}</processingStepDescription><processingStepDescription>[007_STRINGS]{0}</processingStepDescription><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY FineReader Engine</softwareName><softwareVersion>11</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing></Description>
+<Styles>
+</Styles>
+<Layout>
+<Page ACCURACY="100" HEIGHT="1628" ID="PAG_00000003" PHYSICAL_IMG_NR="3" QUALITY="OK" WIDTH="998">
+<PrintSpace HEIGHT="1628" HPOS="0" ID="PAG_00000003_PrintSpace" VPOS="0" WIDTH="998"><Illustration HEIGHT="1628" HPOS="0" ID="PAG_00000003_IL000001" VPOS="0" WIDTH="998"/><GraphicalElement HEIGHT="6" HPOS="93" ID="PAG_00000003_GE000001" VPOS="0" WIDTH="905"/><GraphicalElement HEIGHT="24" HPOS="0" ID="PAG_00000003_GE000002" VPOS="1604" WIDTH="998"/><GraphicalElement HEIGHT="755" HPOS="978" ID="PAG_00000003_GE000003" VPOS="805" WIDTH="20"/><GraphicalElement HEIGHT="542" HPOS="987" ID="PAG_00000003_GE000004" VPOS="89" WIDTH="11"/><GraphicalElement HEIGHT="79" HPOS="990" ID="PAG_00000003_GE000005" VPOS="720" WIDTH="5"/><GraphicalElement HEIGHT="60" HPOS="995" ID="PAG_00000003_GE000006" VPOS="746" WIDTH="3"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>
