@@ -34,6 +34,8 @@ The HTML format is generated in a "HTML" folder and rendered with CSS stylesheet
 2. Change dir to the folder containing the DOCS folder
 3. >parseAltos2Imprimes.bat DOCS -x
 
+The -x option runs the batch. The -i option allows the batch to be executed in simulation mode (all the XSLT calls are listed but nor performed).
+
 ### Misc
 These symbols are used to transcribe the OCR information:
 - end of line: ↵
